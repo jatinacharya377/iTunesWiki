@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iTunesWiki</string>
+    <string name="search_artist_ex_justin_bieber">Search Artist (Ex - Justin Bieber)</string>
+    <string name="album_image">Album Image</string>
+    <string name="no_results_found">No results found! Try with another artist name or try again later.</string>
+    <string name="search_artists">Try searching a artist to see results.</string>
+</resources>
